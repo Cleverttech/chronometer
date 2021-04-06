@@ -2,7 +2,7 @@
 
 [See live-demo](https://cleverttech.github.io/chronometer/)
 
-<img src="https://github.com/Cleverttech/recipes/blob/master/chronometer.PNG" alt="demo-Image" margin="auto 0px" width="290" height="220"/>
+<img src="https://github.com/Cleverttech/chronometer/blob/main/chronometer.PNG" alt="demo-Image" margin="auto 0px" width="290" height="220"/>
 <hr>
 
 ###### Technologies:
